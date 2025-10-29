@@ -1,5 +1,3 @@
-package anu_class_java;
-
 //Program to calculate area and perimeter of a triangle using float values, constructor, and methods
 
 import java.util.Scanner;
@@ -45,4 +43,5 @@ public class TriangleAreaPerimeter {
         sc.close();
     }
 }
+
 
